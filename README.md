@@ -19,7 +19,7 @@
  - ㊙️ Cyber Security Enphusiast
  - 🚗 Car Nerd.
  - 🧑‍🎓 PowerMBA Student.
- - 📫 Feel free to reach out <br/><br/>
+ - 📫 Feel free to reach out: <br/><br/>
  [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/the-real-aaron-bishop/)
 
 ---
