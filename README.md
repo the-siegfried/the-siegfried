@@ -14,13 +14,37 @@
 
 ### :man_technologist: &nbsp;About Me :
 
+ - 🔪 I am currently a Lead Software Engineer in the UK, and an ex-CTO returning to the field of development to sharpen my tools. 
+ - 🌱 Exploring Technical Content Writing.
+ - ㊙️ Cyber Security Enphusiast
+ - 🚗 Car Nerd.
+ - 🧑‍🎓 PowerMBA Student.
+ - 📫 Feel free to reach out <br/><br/>
+ [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/the-real-aaron-bishop/)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Pgsql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+#### Currently Learning: 
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+</p>
+
 ---
 
 ### ✍️ Blog Posts : 
+
+#### Coming soon...
 
 <!--
 **the-siegfried/the-siegfried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
