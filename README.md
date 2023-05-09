@@ -15,11 +15,11 @@
 ### :man_technologist: &nbsp;About Me :
 
  - 🔪 I am currently a Lead Software Engineer in the UK, and an ex-CTO returning to the field of development to sharpen my tools. 
- - 🌱 Exploring Technical Content Writing.
+ - 🌱 Exploring Technical Content Writing
  - ㊙️ Cyber Security Enphusiast
- - 🚗 Car Nerd.
- - 🧑‍🎓 PowerMBA Student.
- - 📫 Feel free to reach out: <br/><br/>
+ - 🚗 Car Nerd
+ - 🧑‍🎓 PowerMBA Student
+ - 📫 Feel free to reach out here: <br/><br/>
  [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/the-real-aaron-bishop/)
 
 ---
