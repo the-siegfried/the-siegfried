@@ -18,7 +18,7 @@
  - 🌱 Exploring technical content writing
  - ㊙️ CyberSec enthusiast
  - 🚗 Car nerd
- - 🧑‍🎓 PowerMBA student
+ - 🧑‍🎓 PowerMBA Alumni
  - 📫 Feel free to reach out here: <br/><br/>
  [![Linkedin Badge](https://img.shields.io/badge/-Aaron-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/the-real-aaron-bishop/)
 
