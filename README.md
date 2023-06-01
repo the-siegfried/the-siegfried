@@ -44,7 +44,7 @@
 
 ### ✍️ Blog Posts : 
 
-#### Coming soon...
+#### [ThePowerMBA - A Finishers Comments 👨‍🎓](https://the-siegfried.github.io/01-06-2023-ThePowerMBA-A-finishers-comments/)
 
 <!--
 **the-siegfried/the-siegfried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
